@@ -1,0 +1,84 @@
+{
+  "main": {
+    "id": "4df56989c5c74b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "529516f9553b596f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Docker Concepts.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6de52c486e2fbe6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2223076e5471c1fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20474cb4ac03573",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f21ad09e94be5d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "020d8efc339af987",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bdf2f94457d7fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec73007037e88c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker Concepts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Docker Concepts.md",
+    "Containers.md",
+    "Image.md",
+    "Untitled.md"
+  ]
+}
